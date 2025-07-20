@@ -23,6 +23,7 @@ As you see I let a little bit more room for the screen as printing often isnt as
 After that I finished the firmware for showing the words and using the buttons to turn the pages.
 Session time: 6 hours
 
+Time took to complete the project: 15 hours
 
 
 
