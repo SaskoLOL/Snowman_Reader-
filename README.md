@@ -29,3 +29,5 @@ PROVID=2807&gad_source=1&gad_campaignid=21422869099&gbraid=0AAAAADwnxtbBxWOwnJAN
 PCB cost: 10$
 
 2 M2 screws / Needed: NO
+
+Toal cost of BOM: 60$
