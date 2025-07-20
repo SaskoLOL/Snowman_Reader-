@@ -1,5 +1,5 @@
 # Journal for Snowman Reader by Alexander Kulka
-# June 19th:
+# July 19th:
 So I made alot of progress today. I started brainstorming and made the schematic and wired the pcb.
 
 <img width="857" height="563" alt="fjournal1" src="https://github.com/user-attachments/assets/70b4d1be-17ae-44ac-8be8-ef68e6a845ff" />
@@ -13,7 +13,7 @@ After figuring this out I basically started making the case, though I had alot o
 
 I didnt get to design the top or the firmware yet.
 Session Time: 8 hours
-# June 20th:
+# July 20th:
 Today I finished my project, finally, I sadly had alot problems with fusion again, I first forgot to make the top a new component, so I had to redo it whole. Then I couldnt get the screw holes right, and finally when I finished I forgot to add a hole for the usb, thankfully I did that and finished the CAD.
 
 
