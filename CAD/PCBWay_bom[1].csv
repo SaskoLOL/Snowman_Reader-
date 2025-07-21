@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+,1,,0edc6331-0798-40b0-a7b0-7b674a0c4952,,,,tht,
+,1,,14ed04e4-3497-4429-b643-d2bbfd91bc0d,,,,tht,
+"SW1, SW2",2,SW_Push,SW_Cherry_MX_1.00u_PCB,,,,tht,"Push button switch, generic, two pins"
+U3,1,CR2013-MI2120,CR2013-MI2120,,,,tht,"ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V"
